@@ -1,3 +1,5 @@
+![Final USB-C LED PCB product](./res/usb_led.png)
+
 # Hackerspace: Basic USB-C LED PCB project
 
 This is a basic KiCad 9 project, containing a simple USB-C LED PCB project.
@@ -9,7 +11,10 @@ We assume that this PCB board will be manufactured by
 [JLCPCB](https://jlcpcb.com/), so component sourcing is done through
 [their parts catalogue](https://jlcpcb.com/parts/all-electronic-components), and
 the PCB manufacturing capabilities are
-[conformant to theirs](https://jlcpcb.com/capabilities/pcb-capabilities).
+[conformant to theirs](https://jlcpcb.com/capabilities/pcb-capabilities). We
+will also use
+[Bouni's KiCAD JLCPCB tools plugin](https://github.com/bouni/kicad-jlcpcb-tools)
+to generate the final gerber files to send to JLCPCB for fabrication.
 
 You may access the Hackerspace "_Intro to PCB Design_" workshop slides
 [here](https://hckr.cc/hsp-pcb-intro).

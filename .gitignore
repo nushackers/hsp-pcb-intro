@@ -209,3 +209,9 @@ fp-info-cache
 
 # Local project settings
 *.kicad_prl
+
+
+# Custom
+# Allow JLCPCB production files to be tracked
+!/src/jlcpcb/production_files/*.csv
+!/src/jlcpcb/production_files/*.zip

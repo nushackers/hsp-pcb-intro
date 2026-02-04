@@ -1,10 +1,10 @@
 ![Final USB-C LED PCB product](./res/usb_led.png)
 
-# Hackerspace: Basic USB-C LED PCB project
+# Hackerspace: "Intro to PCB Design" workshop
 
-This is a basic KiCad 9 project, containing a simple USB-C LED PCB project.
-KiCad is a free/libre and open-source project (FLOSS), and you can download this
-electronic design automation (EDA) software from
+This repository contains a basic USB-C LED PCB project using KiCad 9. KiCad is a
+free/libre and open-source project (FLOSS), and you can download this electronic
+design automation (EDA) software from
 [their website](https://www.kicad.org/download/).
 
 We assume that this PCB board will be manufactured by
@@ -16,8 +16,12 @@ will also use
 [Bouni's KiCAD JLCPCB tools plugin](https://github.com/bouni/kicad-jlcpcb-tools)
 to generate the final gerber files to send to JLCPCB for fabrication.
 
-You may access the Hackerspace "_Intro to PCB Design_" workshop slides
-[here](https://hckr.cc/hsp-pcb-intro).
+## Workshop resources
+
+This PCB project is done as part of Hackerspace's "_Intro to PCB Design_"
+workshop, held on Wednesday, 04 February 2026, from 1500h to 1700h (UTC+8). You
+may access the accompanying [workshop slides](https://hckr.cc/hsp-pcb-intro),
+and the [workshop recording](https://www.youtube.com/watch?v=2ei3KIMcw2c).
 
 ## License
 
